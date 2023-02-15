@@ -7,7 +7,7 @@ NUM: variable de tipo entero. */
 void main(void)
 {
 int NUM;
-printf("Ingresa el número para calcular la serie:");
+printf("Ingresa el numero para calcular la serie:");
 scanf("%d", &NUM);
 if (NUM > 0)
 {

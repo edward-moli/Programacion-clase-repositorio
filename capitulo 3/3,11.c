@@ -8,7 +8,7 @@ void main(void)
 {
 int R1 = 0, R2 = 0, R3 = 0, R4 = 0, R5 = 0;
 float CAL;
-printf("Ingresa la calificación del alumno: ");
+printf("Ingresa la calificaci0n del alumno: ");
 scanf("%f", &CAL);
 while (CAL != 1)
 {
@@ -25,7 +25,7 @@ if (CAL < 9)
 R4++;
 else
 R5++;
-printf("Ingresa la calificación del alumno: ");
+printf("Ingresa la calificacion del alumno: ");
 scanf("%f", &CAL);
 }
 printf("\n0..3.99 = %d", R1);

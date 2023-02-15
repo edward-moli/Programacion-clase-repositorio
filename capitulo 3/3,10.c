@@ -24,8 +24,8 @@ SIM = SIM + NUM;
 CIM++;
 }
 }
-printf("\n La suma de los números pares es: %d", SPA);
-printf("\n El promedio de números impares es: %5.2f", (float)(SIM / CIM));
+printf("\n La suma de los numeros pares es: %d", SPA);
+printf("\n El promedio de numeros impares es: %5.2f", (float)(SIM / CIM));
 }
 else
 printf("\n El valor de N es incorrecto");
