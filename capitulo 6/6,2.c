@@ -65,4 +65,5 @@ for (J=0; J<C; J++)
 {
 printf("\nElemento %d %d: %d", I, J,A[I][J]);
 }
+
 }
