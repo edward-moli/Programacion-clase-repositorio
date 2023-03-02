@@ -6,7 +6,7 @@ void main (void)
     char *cad0= "buenos dias"; /* En este caso se asigna 11 caracteres mas el caracter de terminacion '\0' a la posicion de memoria
     a la que aounta la variable cad0 -apuntador del tipo cadena de caracteres. */
 
-    char cad1 [20]="Hola"; /*Se asigna cuatro caracteres mmas el caracter para 20 caracteres.*/
+    char cad1 [20]="Hola"; /*Se asigna cuatro caracteres mas el caracter para 20 caracteres.*/
     char cad2[]="Mexico"; /*En este caso se asigna seis caracteres (mas el caracter de terminacion)
     a la variable cad2. Observa que cad2 no tiene espacio reservado como cad1; por lo tanto, acepta cualquier numero de caracteres.*/
     char cad3[]={'B','i','e','n','e','n','i','d','o','\0'};

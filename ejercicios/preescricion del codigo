@@ -1,0 +1,9 @@
+#include <string.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<unistd.h>
+
+void imprime(int *tab, int fil, int col, int ultnum)
+{
+    /*Precondicion:*/
+}
