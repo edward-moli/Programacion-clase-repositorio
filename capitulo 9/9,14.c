@@ -20,6 +20,7 @@ fclose(ar);
 else
 printf("No se pudo abrir el archivo");
 }
+
 void minymay(FILE *arc)
 /* Esta función cuenta el número de minúsculas y mayúsculas que hay en el
 archivo arc. */
