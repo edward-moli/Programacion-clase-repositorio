@@ -46,7 +46,7 @@ gets(a2.carrera);
 printf("Ingrese el promedio: ");
 scanf("%f", &a2.promedio);
 fflush(stdin);
-printf("Ingrese el correo electrónico: ");
+printf("Ingrese el correo electronico: ");
 gets(a2.personales.correo);
 /* Observa que en la variable a2 de tipo estructura alumno el segundo campo de la
 unión recibe un valor. */
@@ -101,7 +101,7 @@ printf("\nIngrese la matrícula: ");
 scanf("%d", &(*a).matricula);
 fflush(stdin);
 printf("Ingrese el nombre: ");
-gets(a->nombre);
+gets(a0->nombre);
 fflush(stdin);
 printf("Ingrese la carrera: ");
 gets((*a).carrera);

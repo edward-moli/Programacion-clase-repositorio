@@ -59,7 +59,7 @@ campos reciben valores. */
 /* En el programa principal se leen los campos de una variable, e3, y un
 apuntador de tipo estructura, *e1. */
 float sueldo;
-e1 = new (struct empleado);
+e1 = (struct empleado*) malloc(sizeof(struct alumno));
 printf("\nIngrese el nombre del empleado 1: ");
 scanf("%s", &(*e1).nombre);
 fflush(stdin);
@@ -98,7 +98,7 @@ fflush(stdin);
 gets(e3.direccion.localidad);
 /* En la función Lectura se leen los campos de una variable, e4, y un apuntador
 de tipo estructura, *e2. */
-e2 = new (struct empleado);
+e2 =  (struct empleado);
 Lectura(e2);
 Lectura(&e4);
 printf("\nDatos del empleado 1\n");

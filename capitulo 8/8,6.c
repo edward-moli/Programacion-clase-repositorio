@@ -10,7 +10,7 @@ typedef struct /* Declaración de la estructura producto. */
     int clave;
     char nombre[15];
     float precio;
-    int exitencia;
+    int existencia;
 } producto;
 
 void Lectura(producto *, int); /* Prototipos de funciones. */
@@ -65,10 +65,9 @@ void Lectura(producto A[], int T)
 /* Esta función se utiliza para leer un arreglo unidimensional de tipo
 estructura producto de T elementos. */
 {
-
     for (int i = 0; i < T; i++)
     {
-        printf("\nIngrese información del producto %d", I + 1);
+        printf("\nIngrese información del producto %d", i + 1);
         printf("\n\tClave: ");
         scanf("%d", &A[i].clave);
         fflush(stdin);
@@ -83,8 +82,8 @@ scanf("%d", &A[i].existencia);
 
 void Ventas(producto A[], int T)
 /* Esta función se utiliza para manejar las venta a un cliente. Se ingresan
-➥productos y cantidades, el fin de datos está dado por el cero. Además de
-➥obtener el total de las ventas, se actualiza el inventario. */
+productos y cantidades, el fin de datos está dado por el cero. Además de
+obtener el total de las ventas, se actualiza el inventario. */
 {
 int CLA, CAN, I, RES;
 float TOT, PAR;
@@ -99,7 +98,7 @@ I = 0;
 while ((I < T) && (A[I].clave < CLA)) 
 /* Se realiza una búsqueda para localizar la clave del producto. */
 I++;
-if ((I == T) | | (A[I].clave > CLA))
+if ((I == T) || (A[I].clave > CLA))
 printf("\nLa clave del producto es incorrecta");
 else
 if (A[I].existencia >= CAN)
@@ -126,6 +125,7 @@ printf("\nIngrese la siguiente clave del producto -0 para salir-:");
 scanf("%d", &CLA);
 }
 printf("\nTotal de la venta: %f", TOT);
+return(0);
 }
 void Reabastecimiento(producto A[], int T)
 /* Esta función se utiliza para reabastecer al inventario. */
@@ -149,12 +149,13 @@ A[I].existencia += CAN;
 printf("\nIngrese otra clave del producto -0 para salir-: ");
 scanf("%d", &CLA);
 }
+return(0);
 }
 void Nuevos_Productos(producto A[], int *T)
 /* Esta función se utiliza para incorporar nuevos productos al inventario.
-➥Dado que los productos se encuentran ordenados por clave, puede suceder que
-➥al insertar un nuevo producto haya que mover los elementos del arreglo para
-➥que continúen ordenados. */
+Dado que los productos se encuentran ordenados por clave, puede suceder que
+al insertar un nuevo producto haya que mover los elementos del arreglo para
+que continúen ordenados. */
 {
 int CLA, I, J;
 printf("\nIngrese clave del producto -0 para salir-: ");
@@ -184,7 +185,7 @@ else
 {
 for (J=*T; J>I; J--) 
 /* Se inserta el nuevo producto en el arreglo. Se mueven una posición
-➥a la derecha los elementos 
+a la derecha los elementos 
 del arreglo que tengan una clave de producto mayor a la ingresada. */
 A[J] = A[J-1];
 A[I].clave = CLA;
@@ -202,11 +203,12 @@ scanf("%d", &CLA);
 }
 if (*T == 30)
 printf("\nYa no hay espacio para incorporar nuevos productos");
+return(0);
 }
 void Inventario(producto A[], int T)
 /* Esta función se utiliza para escribir la información almacenada en —el
-➥inventario— un arreglo unidimensional de tipo estructura producto de T
-➥elementos. */
+inventario— un arreglo unidimensional de tipo estructura producto de T
+elementos. */
 {
 int I;
 for (I=0; I<T; I++)
@@ -216,5 +218,6 @@ printf("\tNombre: %s", A[I].nombre);
 printf("\tPrecio: %d", A[I].precio);
 printf("\tExistencia: %d \n", A[I].existencia);
 }
+return(0);
 }
 
