@@ -1,6 +1,7 @@
 #include <stdio.h>
 /* Incorpora caracteres.
 El programa agrega caracteres al archivo libro.txt. */
+
 void main(void)
 {
 char p1;

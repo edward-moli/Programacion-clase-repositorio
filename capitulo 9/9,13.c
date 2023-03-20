@@ -2,7 +2,9 @@
 /* Cuenta caracteres.
 El programa, al recibir como dato un archivo de texto y un caracter, cuenta
 el número de veces que se encuentra el caracter en el archivo. */
+
 int cuenta(char); /* Prototipo de función. */
+
 void main(void)
 {
 int res;
@@ -15,6 +17,7 @@ printf("\n\nEl caracter %c se encuentra en el archivo %d veces", car, res);
 else
 printf("No se pudo abrir el archivo");
 }
+
 int cuenta(char car)
 /* Esta función determina cuántas veces se encuentra el caracter en el
 archivo. */

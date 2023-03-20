@@ -3,17 +3,20 @@
 /* Vendedores.
 El programa maneja información sobre las ventas que realizan los vendedores de
 artículos domésticos de una importante empresa de la Ciudad de México. */
+
 typedef struct /* Declaración de la estructura banco. */
 {
 char noba[10]; /* Nombre del banco. */
 char nucu[10]; /* Número de cuenta. */
 } banco;
+
 typedef union /* Declaración de la union fpago. */
 {
 banco che; /* Cheque. Campo de tipo estructura banco. */
 banco nomi; /* Cómina. Campo de tipo estructura banco. */
 char venta; /* Ventanilla. */
 } fpago;
+
 typedef struct /* Declaración de la estructura domicilio. */
 {
 char cnu[20]; /* Calle y número. */
@@ -21,6 +24,7 @@ char col[20]; /* Colonia. */
 char cp[5]; /* Código Postal. */
 char ciu[15]; /* Ciudad. */
 } domicilio;
+
 typedef struct /* Declaración de la estructura vendedor. */
 {
 int num; /* Número de vendedor. */
@@ -31,11 +35,13 @@ float sal; /* Salario mensual. */
 fpago pago; /* pago es de tipo unión fpago. */
 int cla; /* Clave forma de pago. */
 } vendedor;
+
 void Lectura(vendedor *, int);
 void F1(vendedor *, int);
 void F2(vendedor *, int); /* Prototipos de funciones. */
 void F3(vendedor *, int);
 void F4(vendedor *, int);
+
 void main(void)
 {
 vendedor VENDEDORES[100]; 
@@ -55,6 +61,7 @@ F3 (VENDEDORES, TAM);
 F4 (VENDEDORES, TAM);
 printf("\n\tFIN DEL PROGRAMA");
 }
+
 void Lectura(vendedor A[], int T)
 /* Esta función se utiliza para leer un arreglo unidimensional de tipo
 estructura vendedor de T elementos. */
@@ -91,6 +98,7 @@ printf("Salario del vendedor: ");
 scanf("%f", &A[I].sal);
 printf("Forma de Pago (Banco-1 Nomina-2 Ventanilla-3): ");
 scanf("%d", &A[I].cla);
+
 switch (A[I].cla)
 {
 case 1:{
@@ -114,8 +122,10 @@ break;
 case 3: A[I].pago.venta = 'S';
 break;
 }
+
 }
 }
+
 void F1(vendedor A[], int T)
 /* Esta función se utiliza para generar las ventas totales anuales de cada uno
 de los vendedores de la empresa. */
@@ -132,6 +142,7 @@ SUM += A[I].ven[J];
 printf("\nVentas: %.2f\n", SUM);
 }
 }
+
 void F2(vendedor A[], int T)
 /* Esta funcion se utiliza para incrementar 5% el salario de todos aquellos
 vendedores cuyas ventas anuales superaron $1,500,000. */
@@ -152,6 +163,7 @@ A[I].num, SUM, A[I].sal);
 }
 }
 }
+
 void F3(vendedor A[], int T)
 /* Esta funcion se utiliza para generar un listado de todos aquellos
 vendedores que en el año vendieron menos de $300,000. */
@@ -169,6 +181,7 @@ printf("\nNumero de empleado: %d\nNombre: %s\nVentas: %.2f", A[I].num,
 A[I].nom, SUM);
 }
 }
+
 void F4(vendedor A[], int T)
 /* Esta funcion se usa para imprimir el numero de empleado, el nombre del
 banco y el numero de cuenta de todos aquellos empleados a quienes se les

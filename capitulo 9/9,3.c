@@ -22,6 +22,7 @@ fputs(cad, ar); /* Observa la forma como se escribe la cadena en el
 archivo.*/
 printf("\n¿Desea ingresar otra cadena de caracteres? Si-1 No-0:");
 scanf("%d", &res);
+
 if (res)
 fputs("\n", ar);
 /* Se indica un salto de línea, excepto en la última cadena. Si no

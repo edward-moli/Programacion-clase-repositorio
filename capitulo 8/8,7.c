@@ -14,10 +14,12 @@ char nom[20]; /* Nombre del alumno. */
 matpro cal[5]; /* Observa que cal es un arreglo unidimensional de tipoestructura
 matpro —la estructura definida en primer término. */
 } alumno;
+
 void Lectura(alumno * , int); 
 void F1(alumno *, int);
 void F2(alumno *, int); /* Prototipos de funciones. */
 void F3(alumno *, int);
+
 void main(void)
 {
 alumno ALU[50]; /* ALU es un arreglo unidimensional de tipo alumno. */
@@ -34,6 +36,7 @@ F1(ALU, TAM);
 F2(ALU, TAM);
 F3(ALU, TAM);
 }
+
 void Lectura(alumno A[], int T)
 /* Esta función se utiliza para leer la información de un arreglo unidimensional
 de tipo estructura alumno de T elementos. */
@@ -57,6 +60,7 @@ scanf("%d", &A[I].cal[J].pro);
 }
 }
 }
+
 void F1(alumno A[], int T)
 /* Esta función se utiliza para obtener la matrícula y el promedio general de
 ➥cada alumno. */
@@ -73,9 +77,10 @@ SUM = SUM / 5;
 printf("\tPromedio: %.2f", SUM);
 }
 }
+
 void F2(alumno A[], int T)
 /* Esta función se utiliza para obtener las matrículas de los alumnos cuya
-➥calificación en la tercera materia es mayor a 9. */
+calificación en la tercera materia es mayor a 9. */
 {
 int I;
 printf("\nAlumnos con calificacion mayor a 9 en la tercera materia");
@@ -83,6 +88,7 @@ for (I=0; I<T; I++)
 if (A[I].cal[2].pro > 9)
 printf("\nMatricula del alumno : %d", A[I].matri);
 }
+
 void F3(alumno A[], int T)
 /* Esta función se utiliza para obtener el promedio general de la cuarta materia. */
 {

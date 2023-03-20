@@ -28,6 +28,7 @@ archivo cada vez que sea necesario. En este programa no tiene ninguna
 utilidad, sólo se escribió para explicar su uso. */
 fclose(ar);
 }
+
 void incrementa(FILE *ap)
 /* Esta función se utiliza para incrementar el salario de todos aquellos
 empleados que hayan tenido ventas anuales por más de $1,000,000.
@@ -42,6 +43,7 @@ empleado. */
 fread(&emple, sizeof(empleado), 1, ap); 
 /* Se lee el primer registro
 del archivo. */
+
 while(!feof(ap))
 {
 i = ftell(ap) / t;
@@ -56,6 +58,7 @@ for (j=0; j<12; j++)
 sum += emple.ventas[j]; 
 /* Se calculan las ventas de cada
 vendedor. */
+
 if (sum > 1000000)
 {
 emple.salario = emple.salario * 1.10; /* Se incrementa el

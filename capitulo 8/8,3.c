@@ -23,6 +23,7 @@ struct empleado /* Declaración de la estructura anidada empleado. */
     domicilo direccion;    /* direccion es un campo de tipo estructura 
 domicilio de la estructura empleado. */ 
 };
+
 void Lectura(struct empleado *a)
 /* Función que permite leer los campos de un apuntador de tipo estructura
 empleado. */

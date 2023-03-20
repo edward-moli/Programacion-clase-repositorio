@@ -23,6 +23,7 @@ union datos personales;
 }alumno;
 
 void Lectura (alumno a  ); /* Prototipo de función. */
+
 void main (void)
 {
     alumno a1 = {120, "María", "Contabilidad", 8.9, "5-158-40-50"}, a2, a3,a0;

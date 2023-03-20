@@ -12,6 +12,7 @@ float cal[5];
 /* Observa que el campo de la estructura alumno es un arreglo
 unidimensional. */
 } alumno;
+
 void Lectura(alumno[], int T);
 void F1(alumno *, int TAM); /* Prototipos de funciones. */
 void F2(alumno *, int TAM);
@@ -32,6 +33,7 @@ F1(ARRE, TAM);
 F2(ARRE, TAM);
 F3(ARRE, TAM);
 }
+
 void Lectura(alumno A[], int T)
 /* La función Lectura se utiliza para leer un arreglo unidimensional de tipo
 estructura alumno de T elementos. */
@@ -52,6 +54,7 @@ scanf("%f", &A[I].cal[J]);
 }
 }
 }
+
 void F1(alumno A[], int T)
 /* La función F1 obtiene la matrícula y el promedio de cada alumno. */
 {
@@ -67,9 +70,10 @@ PRO = SUM / 5;
 printf("\t\tPromedio: %.2f", PRO);
 }
 }
+
 void F2(alumno A[], int T)
 /* La función F2 obtiene las matrículas de los alumnos cuya calificación en la
-➥tercera materia es mayor a 9. */
+tercera materia es mayor a 9. */
 {
 int I;
 printf("\nAlumnos con calificación en la tercera materia > 9");
@@ -77,6 +81,7 @@ for (I=0; I<T; I++)
 if (A[I].cal[2] > 9)
 printf("\nMatrícula del alumno: %d", A[I].matricula);
 }
+
 void F3(alumno A[], int T)
 /* Esta función obtiene el promedio general del grupo de la materia 4. */
 {

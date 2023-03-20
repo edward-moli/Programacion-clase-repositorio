@@ -10,6 +10,7 @@ char col[20]; /* Colonia. */
 char cp[5]; /* Código Postal. */
 char ciu[20]; /* Ciudad. */
 } domicilio;
+
 typedef struct /* Declaración de la estructura paciente. */
 {
 char nom[20]; /* Nombre y apellido. */
@@ -19,6 +20,7 @@ int con; /* Condición. */
 domicilio dom; /* Observa que el campo dom es de tipo estructura
 domicilio. */
 char tel[10]; /* Teléfono. */
+
 } paciente;
 void Lectura(paciente *, int); 
 void F1(paciente *, int);
@@ -93,6 +95,7 @@ TOT = FEM + MAS;
 printf("\nPorcentaje de Hombres: %.2f", (float)MAS / TOT * 100);
 printf("\nPorcentaje de Mujeres: %.2f", (float)FEM / TOT * 100);
 }
+
 void F2(paciente A[], int T)
 /* Esta función se utiliza para obtener el número de pacientes que ingresaron al
 hospital en cada una de las categorías de condición. */
@@ -118,6 +121,7 @@ printf("\nNumero pacientes en condicion 3: %d", C3);
 printf("\nNumero pacientes en condicion 4: %d", C4);
 printf("\nNumero pacientes en condicion 5: %d", C5);
 }
+
 void F3(paciente A[], int T)
 /* La función F3 se utiliza para generar el nombre y teléfono de todos los
 pacientes que tuvieron una condición de ingreso de máxima gravedad (5). */ 

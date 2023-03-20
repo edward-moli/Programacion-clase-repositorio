@@ -14,6 +14,7 @@ struct alumno /* Declaración de la estructura. */
     char direccion[20];
 }; /* Observa que la declaración de una estructura termina con punto y
  coma. */
+ 
 void main(void)
 {
     /* Observa que las variables de tipo estructura se declaran como cualquier otra

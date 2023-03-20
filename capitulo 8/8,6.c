@@ -151,6 +151,7 @@ scanf("%d", &CLA);
 }
 return(0);
 }
+
 void Nuevos_Productos(producto A[], int *T)
 /* Esta función se utiliza para incorporar nuevos productos al inventario.
 Dado que los productos se encuentran ordenados por clave, puede suceder que
@@ -166,6 +167,7 @@ I=0;
 while ((I < *T) && (A[I].clave < CLA)) 
 /* Búsqueda de la posición que le corresponde a CLA en el arreglo. */
 I++;
+
 if (I == *T) /* Se inserta el elemento en la última posición. */
 {
 A[I].clave = CLA;

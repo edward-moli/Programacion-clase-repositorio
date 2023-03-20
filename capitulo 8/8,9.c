@@ -4,12 +4,14 @@
 El programa maneja información sobre las propiedades que tiene una empresa
 de bienes raíces de la ciudad de Lima, Perú, tanto para venta como para
 renta. */ 
+
 typedef struct /* Declaración de la estructura ubicación.*/
 {
 char zona[20];
 char calle[20];
 char colo[20]; /* Colonia. */
 } ubicacion;
+
 typedef struct /* Declaración de la estructura propiedades.*/
 {
 char clave[5];
@@ -21,6 +23,7 @@ ubicación. */
 float precio;
 char dispo; /* Disponibilidad. */
 } propiedades;
+
 void Lectura(propiedades [], int);
 void F1(propiedades *, int); /* Prototipos de funciones. */
 void F2(propiedades *, int);
@@ -41,6 +44,7 @@ Lectura(PROPIE, TAM);
 F1(PROPIE, TAM);
 F2(PROPIE, TAM);
 }
+
 void Lectura(propiedades A[], int T)
 /* Esta función se utiliza para leer un arreglo unidimensional de tipo estructura
 propiedades de T elementos. */ 
@@ -74,6 +78,7 @@ printf("Disponibilidad (Venta-V Renta-R): ");
 scanf("%c", &A[I].dispo);
 }
 }
+
 void F1(propiedades A[], int T)
 /* Esta función se utiliza para generar un listado de las propiedades
 disponibles para venta en la zona de Miraflores, cuyo valor oscila entre
@@ -98,6 +103,7 @@ puts(A[I].ubi.colo);
 printf("Precio: %.2f\n", A[I].precio);
 }
 }
+
 void F2(propiedades A[], int T)
 /* Al recibir como datos una zona geográfica de Lima, Perú, y un cierto rango
 respecto al monto, esta función genera un listado de todas las propiedades
