@@ -114,7 +114,6 @@ namespace calculadora
               
                 textresultado.Text = "0";
             }
-            
         }
 
 
