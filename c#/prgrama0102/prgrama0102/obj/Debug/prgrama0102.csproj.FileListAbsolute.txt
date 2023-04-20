@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\bin\Debug\prgrama0102.exe.config
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\bin\Debug\prgrama0102.exe
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\bin\Debug\prgrama0102.pdb
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.exe
+C:\Users\edward\Desktop\programacion\c#\prgrama0102\prgrama0102\obj\Debug\prgrama0102.pdb

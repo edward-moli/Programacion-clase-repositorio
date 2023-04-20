@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\bin\Debug\Aplicacion  video 7.exe.config
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\bin\Debug\Aplicacion  video 7.exe
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\bin\Debug\Aplicacion  video 7.pdb
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion  video 7.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion  video 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion__video_7.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion__video_7.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion  video 7.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion  video 7.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion  video 7.exe
+C:\Users\edward\Desktop\programacion\c#\Aplicacion  video 7\Aplicacion  video 7\obj\Debug\Aplicacion  video 7.pdb
