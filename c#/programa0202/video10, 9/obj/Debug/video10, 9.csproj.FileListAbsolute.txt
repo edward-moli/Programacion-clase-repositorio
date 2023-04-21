@@ -1,0 +1,12 @@
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\bin\Debug\video10, 9.exe.config
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\bin\Debug\video10, 9.exe
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\bin\Debug\video10, 9.pdb
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10, 9.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10, 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10__9.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10__9.Form2.resources
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10__9.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10, 9.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10, 9.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10, 9.exe
+C:\Users\edward\Desktop\programacion\c#\video10, 9\video10, 9\obj\Debug\video10, 9.pdb

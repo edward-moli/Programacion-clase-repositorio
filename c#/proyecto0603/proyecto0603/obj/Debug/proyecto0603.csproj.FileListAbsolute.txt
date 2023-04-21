@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\bin\Debug\proyecto0603.exe.config
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\bin\Debug\proyecto0603.exe
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\bin\Debug\proyecto0603.pdb
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.exe
+C:\Users\edward\Desktop\programacion\c#\proyecto0603\proyecto0603\obj\Debug\proyecto0603.pdb

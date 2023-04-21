@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\bin\Debug\Rdibotton,video8.exe.config
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\bin\Debug\Rdibotton,video8.exe
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\bin\Debug\Rdibotton,video8.pdb
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton,video8.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton,video8.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton_video8.Gboxoperaciones.resources
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton_video8.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton,video8.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton,video8.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton,video8.exe
+C:\Users\edward\Desktop\programacion\c#\Rdibotton,video8\Rdibotton,video8\obj\Debug\Rdibotton,video8.pdb

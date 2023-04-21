@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\bin\Debug\vd28.exe.config
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\bin\Debug\vd28.exe
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\bin\Debug\vd28.pdb
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.exe
+C:\Users\edward\Desktop\programacion\c#\vd28\vd28\obj\Debug\vd28.pdb

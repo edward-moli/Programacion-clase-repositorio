@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\bin\Debug\Pograma0501.exe.config
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\bin\Debug\Pograma0501.exe
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\bin\Debug\Pograma0501.pdb
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.exe
+C:\Users\edward\Desktop\programacion\c#\Pograma0501\Pograma0501\obj\Debug\Pograma0501.pdb

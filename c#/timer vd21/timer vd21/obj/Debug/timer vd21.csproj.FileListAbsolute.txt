@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer vd21.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer vd21.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer_vd21.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer_vd21.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer vd21.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer vd21.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\bin\Debug\timer vd21.exe.config
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\bin\Debug\timer vd21.exe
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\bin\Debug\timer vd21.pdb
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer vd21.exe
+C:\Users\edward\Desktop\programacion\c#\timer vd21\timer vd21\obj\Debug\timer vd21.pdb

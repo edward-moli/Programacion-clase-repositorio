@@ -16,5 +16,29 @@ namespace Rdibotton_video8
         {
             InitializeComponent();
         }
+
+        private void btncalcular_Click(object sender, EventArgs e)
+        {
+            double r = 0.0;
+            double a = 0.0;
+            double b = 0.0;
+
+            a= Convert.ToDouble(txtA.Text);
+            b= Convert.ToDouble(txtB.Text); 
+
+            if(rbsuma.Checked ==true) 
+                r= a+b;
+
+            if (rbresta.Checked == true)
+                r = a - b;
+
+            if (rbmultiplicacion.Checked == true)
+                r = a * b;
+
+            if (rbdivicion.Checked == true)
+                r = a / b;
+
+            lblresultado.Text = r.ToString();
+        }
     }
 }

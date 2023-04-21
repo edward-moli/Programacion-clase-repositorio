@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\bin\Debug\Ejercicio,11.exe.config
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\bin\Debug\Ejercicio,11.exe
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\bin\Debug\Ejercicio,11.pdb
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio,11.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio,11.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio_11.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio_11.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio,11.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio,11.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio,11.exe
+C:\Users\edward\Desktop\programacion\c#\Ejercicio,11\Ejercicio,11\obj\Debug\Ejercicio,11.pdb

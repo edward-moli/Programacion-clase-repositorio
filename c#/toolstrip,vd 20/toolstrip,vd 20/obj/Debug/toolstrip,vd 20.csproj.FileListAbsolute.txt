@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\bin\Debug\toolstrip,vd 20.exe.config
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\bin\Debug\toolstrip,vd 20.exe
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\bin\Debug\toolstrip,vd 20.pdb
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip,vd 20.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip,vd 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip_vd_20.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip_vd_20.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip,vd 20.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip,vd 20.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip,vd 20.exe
+C:\Users\edward\Desktop\programacion\c#\toolstrip,vd 20\toolstrip,vd 20\obj\Debug\toolstrip,vd 20.pdb

@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\bin\Debug\programa0602.exe.config
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\bin\Debug\programa0602.exe
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\bin\Debug\programa0602.pdb
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.exe
+C:\Users\edward\Desktop\programacion\c#\programa0602\programa0602\obj\Debug\programa0602.pdb
