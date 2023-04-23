@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\bin\Debug\proyecto0708.exe.config
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\bin\Debug\proyecto0708.exe
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\bin\Debug\proyecto0708.pdb
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.Form1.resources
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.exe
+C:\Users\edward\Desktop\programacion\c#\proyecto0708\proyecto0708\obj\Debug\proyecto0708.pdb

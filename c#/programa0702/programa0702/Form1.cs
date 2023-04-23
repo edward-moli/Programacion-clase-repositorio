@@ -16,5 +16,16 @@ namespace programa0702
         {
             InitializeComponent();
         }
+
+        private void btnmostrar_Click(object sender, EventArgs e)
+        {
+            lblmensaje.Text= mtxtdato.Text;
+        }
+
+        private void mtxtdato_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+            lblmensaje.Text = "Error a introducir el dato";
+
+        }
     }
 }
