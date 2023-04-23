@@ -1,0 +1,11 @@
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\bin\Debug\ejemplo.23.exe.config
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\bin\Debug\ejemplo.23.exe
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\bin\Debug\ejemplo.23.pdb
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\bin\Debug\LiteDB.dll
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\bin\Debug\LiteDB.xml
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\obj\Debug\ejemplo.23.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\obj\Debug\ejemplo.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\obj\Debug\ejemplo.23.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\obj\Debug\ejemplo.23.csproj.CopyComplete
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\obj\Debug\ejemplo.23.exe
+C:\Users\edward\Desktop\programacion\c#\ejemplo.23\ejemplo.23\obj\Debug\ejemplo.23.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prgrama0605", "prgrama0605\prgrama0605.csproj", "{CFE57E56-85FB-4EBB-8CF5-192DC1EEC6E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE57E56-85FB-4EBB-8CF5-192DC1EEC6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE57E56-85FB-4EBB-8CF5-192DC1EEC6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE57E56-85FB-4EBB-8CF5-192DC1EEC6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE57E56-85FB-4EBB-8CF5-192DC1EEC6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {781EBC1B-D939-4AF4-AF63-401A69C154A7}
+	EndGlobalSection
+EndGlobal
