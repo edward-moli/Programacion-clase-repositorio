@@ -1,0 +1,12 @@
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\bin\Debug\programa10.07.exe.config
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\bin\Debug\programa10.07.exe
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\bin\Debug\programa10.07.pdb
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10.07.csproj.AssemblyReference.cache
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10.07.csproj.SuggestedBindingRedirects.cache
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10._07.splash.resources
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10._07.Form2.resources
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10._07.Properties.Resources.resources
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10.07.csproj.GenerateResource.cache
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10.07.csproj.CoreCompileInputs.cache
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10.07.exe
+C:\Users\edward\Desktop\programacion\c#\programa10.07\programa10.07\obj\Debug\programa10.07.pdb
